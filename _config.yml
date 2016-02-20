@@ -1,0 +1,28 @@
+name: Heartbeat
+favicon: null
+layout_spectrum: 0.8278077116701752
+typography_spectrum: 0.5906956805847585
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7809732696041465
+  lightness: 0.6482995613478124
+  saturation: 0.3279520873911679
+  rhythmicContrast: 0.6630066907964647
+purpose: []
