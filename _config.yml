@@ -1,7 +1,7 @@
 name: Heartbeat
 favicon: null
-layout_spectrum: 0.8278077116701752
-typography_spectrum: 0.5906956805847585
+layout_spectrum: 1
+typography_spectrum: 0.14037
 title: The Heartbeat Escape
 cta:
   domain: null
