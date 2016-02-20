@@ -4,14 +4,14 @@
         <description><![CDATA[The Heartbeat Escape]]></description>
         <link>https://thegrid.ai/heartbeat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 07:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 07:08:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/heartbeat/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sometimes...]]></title>
-            <description><![CDATA[<article><h1>Sometimes...</h1><p>…what’s blurred and unclear to the eye</p></article>]]></description>
+            <description><![CDATA[<article><h1>Sometimes...</h1><p>…what’s blurred and unclear to the eye</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b9aca3c-acd4-4602-a549-58373438dc7b.jpg"></article>]]></description>
             <link>https://thegrid.ai/heartbeat/08542cf6-13ab-4a0c-aaef-688e730b1d50/index.html</link>
             <guid isPermaLink="false">08542cf6-13ab-4a0c-aaef-688e730b1d50</guid>
-            <pubDate>Sat, 20 Feb 2016 07:06:20 GMT</pubDate>
+            <pubDate>Sat, 20 Feb 2016 07:08:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
